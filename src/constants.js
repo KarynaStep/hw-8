@@ -22,6 +22,12 @@ export const COLORS = {
   DEPRECATE: "red",
 };
 
+export const FLEX = {
+  DIRECTION: "row-reverse",
+  WRAP: "wrap",
+  JUSTIFY: "space-between",
+};
+
 export const API = {
   URL: "https://randomuser.me/api/",
   RESULTS: 10,
